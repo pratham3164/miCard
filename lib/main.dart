@@ -42,7 +42,7 @@ class Profile extends StatelessWidget {
             ),
             Cards(
               iconData: Icons.mail,
-              text: 'pmalji5034@gmail.com',
+              text: 'miCard@gmail.com',
             )
           ],
         ),
